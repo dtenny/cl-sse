@@ -7,6 +7,7 @@
 
 (defsystem :sse-client
   :version "0.1.0"
+  :license "MIT"
   :author "Dave Tenny"
   :description "Implements client parsing of a Server Sent Events (SSE) stream."
   :components ((:file "client")))

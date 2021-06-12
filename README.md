@@ -1,7 +1,8 @@
 # About
 
 cl-sse is an implementation of the Server Side Events protocol as per
-https://www.w3.org/TR/eventsource/.
+https://www.w3.org/TR/eventsource/. And a small demo you can try with a browser 
+(instructions below).
 
 The protocol originated for use in browsers, where most browsers support a
 javascript EventSource implementation that can be used to receive pushed event

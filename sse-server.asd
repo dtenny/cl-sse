@@ -7,6 +7,7 @@
 
 (defsystem :sse-server
   :version "0.1.0"
+  :license "MIT"
   :author "Dave Tenny"
   :description "sse-server implements support for the sender side of Server Side Events"
   :depends-on (:cl-ppcre :trivial-escapes)

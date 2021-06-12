@@ -7,6 +7,7 @@
 
 (defsystem :sse-server-test
   :version "0.1.0"
+  :license "MIT"
   :author "Dave Tenny"
   :description "sse-server tests"
   :depends-on (:fiveam :sse-server :trivial-escapes)

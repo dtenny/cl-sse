@@ -7,6 +7,7 @@
 
 (defsystem :sse-demo
   :version "0.1.0"
+  :license "MIT"
   :author "Dave Tenny"
   :description "Use sse-server + a web service to serve SSE events to a browser."
   :depends-on (:sse-server :hunchentoot :easy-routes :flexi-streams :sse-server)
