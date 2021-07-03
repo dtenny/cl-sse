@@ -2,7 +2,7 @@
 
 cl-sse is an partial implementation of the Server Side Events protocol as per
 https://www.w3.org/TR/eventsource/. It is a toolkit for Common Lisp service
-implementations that want to send or receive events according tot he protocol.
+implementations that want to send or receive events according to the protocol.
 There is a small demo you can try with a browser (instructions below).
 
 The protocol originated for use in browsers, where most browsers support a
